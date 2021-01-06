@@ -24,7 +24,7 @@ npm install easy-database --save
 
 ## Using
 
-```javascipt
+```js
 let Database = require("easy-database");
 
 let db = new Database({
