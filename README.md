@@ -61,10 +61,6 @@ console.log(newFooFromOtherTable); // null !
 * Website: http://aleks.ovh
 * Github: [@Aleks-1123](https://github.com/Aleks-1123)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Aleks-1123/easy-database/issues). You can also take a look at the [contributing guide](https://github.com/Aleks-1123/easy-database/blob/master/CONTRIBUTING.md).
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
