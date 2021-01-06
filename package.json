@@ -1,5 +1,5 @@
 {
-    "name": "@aleks1123/easy-database",
+    "name": "easy-db",
     "version": "1.0.0",
     "description": "A small SQLite wrapper",
     "main": "src/app.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aleks-1123/easy-database.git"
+        "url": "git+https://github.com/Aleks-1123/easy-db.git"
     },
     "keywords": [
         "db",
@@ -17,9 +17,9 @@
     "author": "Aleks1123",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Aleks-1123/easy-database/issues"
+        "url": "https://github.com/Aleks-1123/easy-db/issues"
     },
-    "homepage": "https://github.com/Aleks-1123/easy-database#readme",
+    "homepage": "https://github.com/Aleks-1123/easy-db#readme",
     "dependencies": {
         "better-sqlite3": "^7.1.2"
     }
