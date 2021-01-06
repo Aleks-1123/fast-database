@@ -1,0 +1,26 @@
+{
+  "name": "easy-database",
+  "version": "1.0.0",
+  "description": "A small SQLite wrapper",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleks-1123/easy-database.git"
+  },
+  "keywords": [
+    "db",
+    "discord-bot-db"
+  ],
+  "author": "Aleks1123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleks-1123/easy-database/issues"
+  },
+  "homepage": "https://github.com/Aleks-1123/easy-database#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.1.2"
+  }
+}
