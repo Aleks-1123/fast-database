@@ -1,31 +1,31 @@
-<h1 align="center">Welcome to fast-db 👋</h1>
+<h1 align="center">Welcome to fast-database 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Aleks-1123/fast-db#readme" target="_blank">
+  <a href="https://github.com/Aleks-1123/fast-database#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/Aleks-1123/fast-db/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/Aleks-1123/fast-database/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Aleks-1123/fast-db/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/Aleks-1123/fast-db" />
+  <a href="https://github.com/Aleks-1123/fast-database/blob/master/LICENSE" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/Aleks-1123/fast-database" />
   </a>
 </p>
 
 > A small SQLite wrapper
 
-### 🏠 [Homepage](https://github.com/Aleks-1123/fast-db#readme)
+### 🏠 [Homepage](https://github.com/Aleks-1123/fast-database#readme)
 
 ## Install
 
 ```sh
-npm install fast-db --save
+npm install fast-database --save
 ```
 
 ## Using
 
 ```js
-let Database = require("fast-db");
+let Database = require("fast-database");
 
 let db = new Database({
     path: "./db.sqlite", // path to database file (optional, default ./database.sqlite)
@@ -68,6 +68,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Aleks1123](https://github.com/Aleks-1123).<br />
-This project is [ISC](https://github.com/Aleks-1123/fast-db/blob/master/LICENSE) licensed.
+This project is [ISC](https://github.com/Aleks-1123/fast-database/blob/master/LICENSE) licensed.
 
 ***

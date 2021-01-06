@@ -1,5 +1,5 @@
 {
-    "name": "fast-db",
+    "name": "fast-database",
     "version": "1.0.0",
     "description": "A small SQLite wrapper",
     "main": "src/app.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aleks-1123/fast-db.git"
+        "url": "git+https://github.com/Aleks-1123/fast-database.git"
     },
     "keywords": [
         "db",
@@ -17,9 +17,9 @@
     "author": "Aleks1123",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Aleks-1123/fast-db/issues"
+        "url": "https://github.com/Aleks-1123/fast-database/issues"
     },
-    "homepage": "https://github.com/Aleks-1123/fast-db#readme",
+    "homepage": "https://github.com/Aleks-1123/fast-database#readme",
     "dependencies": {
         "better-sqlite3": "^7.1.2"
     }
