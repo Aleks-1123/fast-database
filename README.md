@@ -18,8 +18,22 @@
 
 ## Install
 
+# Windows
+
 ```sh
-npm install fast-database --save
+$ npm install windows-build-tools -g 
+
+$ npm i node-gyp -g
+
+$ npm install fast-database --save
+```
+
+# Linux
+
+```sh
+$ npm i node-gyp -g
+
+$ npm install fast-database --save
 ```
 
 ## Using
