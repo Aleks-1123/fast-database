@@ -1,5 +1,5 @@
 {
-    "name": "easy-db",
+    "name": "fast-db",
     "version": "1.0.0",
     "description": "A small SQLite wrapper",
     "main": "src/app.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aleks-1123/easy-db.git"
+        "url": "git+https://github.com/Aleks-1123/fast-db.git"
     },
     "keywords": [
         "db",
@@ -17,9 +17,9 @@
     "author": "Aleks1123",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Aleks-1123/easy-db/issues"
+        "url": "https://github.com/Aleks-1123/fast-db/issues"
     },
-    "homepage": "https://github.com/Aleks-1123/easy-db#readme",
+    "homepage": "https://github.com/Aleks-1123/fast-db#readme",
     "dependencies": {
         "better-sqlite3": "^7.1.2"
     }
